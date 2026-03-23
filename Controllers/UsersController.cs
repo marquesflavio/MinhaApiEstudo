@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using MinhaApiEstudo.Data;
+using MinhaApiEstudo.Features.Users.Queries.GetAllUsers;
 using MinhaApiEstudo.Models;
 
 namespace MinhaApiEstudo.Controllers;
@@ -9,16 +11,18 @@ namespace MinhaApiEstudo.Controllers;
 public class UsersController : ControllerBase
 {
     private readonly AppDbContext _context;
-
-    public UsersController(AppDbContext context)
+    private readonly IMediator _mediator;
+    public UsersController(AppDbContext context, IMediator mediator)
     {
         _context = context;
+        _mediator = mediator;
     }
 
     [HttpGet]
-    public IActionResult Get()
+    public async Task<IActionResult> Get()
     {
-        return Ok(_context.Users.ToList());
+        var result = await _mediator.Send(new GetAllUsersQuery());
+        return Ok(result);
     }
 
     [HttpGet("{id}")]

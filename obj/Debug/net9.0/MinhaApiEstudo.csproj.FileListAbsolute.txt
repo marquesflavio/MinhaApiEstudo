@@ -261,8 +261,6 @@ C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstud
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.csproj.CoreCompileInputs.cache
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.MvcApplicationPartsAssemblyInfo.cs
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.MvcApplicationPartsAssemblyInfo.cache
-C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.RazorAssemblyInfo.cache
-C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.RazorAssemblyInfo.cs
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -278,4 +276,8 @@ C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\refint\MinhaA
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.pdb
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.genruntimeconfig.cache
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\ref\MinhaApiEstudo.dll
+C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\MinhaApiEstudo.sourcelink.json
+C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\bin\Debug\net9.0\MediatR.dll
+C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
 C:\Dev\pessoal\2026\MinhaApiEstudo\MinhaApiEstudo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
